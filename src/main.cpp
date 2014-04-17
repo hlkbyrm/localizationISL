@@ -1,3 +1,6 @@
+
+// hlk byrm @ 2014
+
 #include "commclient.h"
 #include "rosThread.h"
 
